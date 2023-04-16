@@ -1,1 +1,1 @@
-ini gerbang1
+ini pintu2
