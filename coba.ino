@@ -1,2 +1,1 @@
-coba
-masuk
+ini gerbang1
